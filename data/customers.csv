@@ -1,0 +1,501 @@
+customer_id,city,tier,age,join_year
+C0001,Houston,Silver,36,2021
+C0002,Phoenix,Gold,53,2021
+C0003,Chicago,Bronze,46,2021
+C0004,Phoenix,Gold,35,2019
+C0005,Phoenix,Bronze,19,2021
+C0006,Los Angeles,Bronze,18,2020
+C0007,Chicago,Platinum,64,2018
+C0008,Chicago,Bronze,22,2021
+C0009,Chicago,Bronze,37,2023
+C0010,Phoenix,Platinum,28,2018
+C0011,Houston,Platinum,59,2019
+C0012,Chicago,Silver,19,2023
+C0013,Phoenix,Silver,20,2018
+C0014,Los Angeles,Silver,40,2023
+C0015,Houston,Bronze,72,2019
+C0016,Los Angeles,Bronze,29,2020
+C0017,Houston,Silver,37,2019
+C0018,Phoenix,Gold,22,2019
+C0019,New York,Gold,54,2023
+C0020,Houston,Gold,55,2022
+C0021,Los Angeles,Bronze,47,2021
+C0022,Phoenix,Silver,26,2021
+C0023,Houston,Bronze,51,2020
+C0024,New York,Silver,70,2020
+C0025,New York,Silver,61,2021
+C0026,Chicago,Gold,52,2022
+C0027,Chicago,Bronze,69,2021
+C0028,Los Angeles,Bronze,39,2022
+C0029,Houston,Bronze,61,2020
+C0030,Houston,Gold,41,2018
+C0031,Chicago,Silver,34,2023
+C0032,Houston,Bronze,27,2020
+C0033,Houston,Bronze,47,2020
+C0034,New York,Gold,73,2019
+C0035,Chicago,Bronze,63,2019
+C0036,Phoenix,Gold,40,2019
+C0037,Chicago,Gold,49,2023
+C0038,Phoenix,Bronze,34,2019
+C0039,New York,Bronze,67,2022
+C0040,Los Angeles,Platinum,68,2021
+C0041,Houston,Bronze,34,2018
+C0042,New York,Bronze,31,2020
+C0043,Houston,Gold,26,2022
+C0044,Los Angeles,Platinum,57,2018
+C0045,Los Angeles,Platinum,19,2022
+C0046,New York,Gold,62,2022
+C0047,Los Angeles,Bronze,42,2020
+C0048,Phoenix,Bronze,56,2021
+C0049,Los Angeles,Gold,26,2019
+C0050,Houston,Silver,71,2023
+C0051,Houston,Silver,39,2021
+C0052,Houston,Platinum,60,2023
+C0053,Houston,Bronze,63,2020
+C0054,Phoenix,Silver,21,2020
+C0055,Chicago,Bronze,43,2020
+C0056,New York,Silver,46,2018
+C0057,Houston,Bronze,62,2023
+C0058,Los Angeles,Bronze,51,2021
+C0059,Houston,Bronze,40,2021
+C0060,Los Angeles,Silver,54,2022
+C0061,Los Angeles,Gold,28,2022
+C0062,Houston,Silver,23,2022
+C0063,Phoenix,Platinum,35,2020
+C0064,Los Angeles,Bronze,38,2021
+C0065,Los Angeles,Bronze,59,2023
+C0066,Houston,Gold,53,2020
+C0067,Los Angeles,Bronze,58,2018
+C0068,Los Angeles,Platinum,55,2022
+C0069,Houston,Bronze,51,2020
+C0070,Houston,Platinum,34,2020
+C0071,New York,Bronze,54,2018
+C0072,Phoenix,Gold,42,2019
+C0073,Phoenix,Silver,55,2021
+C0074,Los Angeles,Platinum,29,2023
+C0075,Phoenix,Bronze,40,2019
+C0076,Los Angeles,Silver,70,2022
+C0077,New York,Platinum,59,2020
+C0078,Houston,Silver,39,2018
+C0079,Houston,Silver,38,2018
+C0080,Houston,Silver,44,2021
+C0081,Phoenix,Silver,74,2019
+C0082,New York,Silver,48,2021
+C0083,Phoenix,Silver,23,2020
+C0084,Phoenix,Platinum,44,2021
+C0085,New York,Bronze,57,2023
+C0086,New York,Bronze,51,2018
+C0087,New York,Platinum,29,2018
+C0088,New York,Gold,62,2022
+C0089,Houston,Silver,74,2022
+C0090,Chicago,Silver,70,2020
+C0091,Chicago,Bronze,24,2023
+C0092,New York,Bronze,27,2019
+C0093,Chicago,Silver,62,2021
+C0094,Chicago,Bronze,34,2020
+C0095,New York,Silver,43,2022
+C0096,Chicago,Bronze,38,2021
+C0097,Phoenix,Platinum,45,2022
+C0098,Los Angeles,Platinum,63,2021
+C0099,Los Angeles,Silver,19,2019
+C0100,New York,Silver,71,2020
+C0101,Houston,Bronze,60,2021
+C0102,New York,Gold,18,2023
+C0103,Houston,Silver,68,2018
+C0104,Los Angeles,Bronze,70,2023
+C0105,New York,Platinum,53,2023
+C0106,Phoenix,Gold,68,2018
+C0107,Chicago,Platinum,43,2023
+C0108,Houston,Gold,46,2021
+C0109,Chicago,Silver,38,2021
+C0110,Chicago,Silver,28,2021
+C0111,New York,Platinum,57,2018
+C0112,Chicago,Gold,28,2023
+C0113,Phoenix,Bronze,53,2018
+C0114,Chicago,Bronze,66,2021
+C0115,New York,Bronze,56,2023
+C0116,Phoenix,Gold,57,2023
+C0117,Los Angeles,Platinum,52,2022
+C0118,Chicago,Bronze,71,2022
+C0119,New York,Silver,51,2019
+C0120,Los Angeles,Bronze,72,2020
+C0121,Los Angeles,Platinum,64,2022
+C0122,Houston,Gold,41,2018
+C0123,Phoenix,Gold,71,2022
+C0124,Chicago,Silver,39,2019
+C0125,New York,Silver,22,2023
+C0126,Houston,Bronze,73,2019
+C0127,Phoenix,Bronze,50,2023
+C0128,Houston,Gold,53,2023
+C0129,Phoenix,Gold,64,2020
+C0130,Phoenix,Platinum,37,2022
+C0131,Chicago,Platinum,36,2018
+C0132,Phoenix,Silver,52,2018
+C0133,Houston,Gold,69,2021
+C0134,Phoenix,Platinum,60,2023
+C0135,Chicago,Gold,34,2018
+C0136,Chicago,Bronze,62,2020
+C0137,Houston,Silver,60,2023
+C0138,Los Angeles,Bronze,51,2020
+C0139,Los Angeles,Platinum,26,2018
+C0140,Phoenix,Silver,43,2018
+C0141,New York,Bronze,19,2021
+C0142,Phoenix,Silver,70,2018
+C0143,Houston,Silver,26,2023
+C0144,Houston,Bronze,26,2023
+C0145,Houston,Bronze,57,2023
+C0146,Houston,Silver,34,2021
+C0147,Houston,Silver,18,2021
+C0148,Chicago,Gold,42,2018
+C0149,Los Angeles,Silver,60,2019
+C0150,Houston,Gold,57,2019
+C0151,New York,Silver,59,2021
+C0152,New York,Silver,42,2018
+C0153,New York,Gold,56,2019
+C0154,New York,Silver,52,2018
+C0155,Chicago,Bronze,20,2018
+C0156,New York,Bronze,67,2018
+C0157,Houston,Gold,54,2022
+C0158,Phoenix,Silver,61,2023
+C0159,New York,Gold,61,2018
+C0160,Chicago,Bronze,68,2022
+C0161,Chicago,Bronze,47,2021
+C0162,New York,Bronze,55,2019
+C0163,Phoenix,Bronze,51,2023
+C0164,New York,Silver,29,2019
+C0165,Chicago,Bronze,36,2023
+C0166,Los Angeles,Silver,54,2019
+C0167,Houston,Platinum,61,2023
+C0168,Chicago,Bronze,66,2019
+C0169,New York,Silver,34,2019
+C0170,Houston,Gold,27,2019
+C0171,New York,Bronze,74,2019
+C0172,New York,Silver,72,2021
+C0173,Los Angeles,Gold,66,2018
+C0174,Houston,Platinum,64,2020
+C0175,Houston,Bronze,29,2022
+C0176,Los Angeles,Platinum,33,2020
+C0177,Chicago,Silver,41,2020
+C0178,New York,Bronze,36,2023
+C0179,Phoenix,Silver,25,2018
+C0180,New York,Platinum,48,2023
+C0181,New York,Silver,38,2018
+C0182,Chicago,Bronze,34,2018
+C0183,New York,Silver,40,2019
+C0184,Los Angeles,Bronze,54,2021
+C0185,Los Angeles,Bronze,71,2019
+C0186,Houston,Bronze,33,2021
+C0187,Phoenix,Bronze,23,2023
+C0188,New York,Bronze,25,2021
+C0189,New York,Bronze,42,2023
+C0190,Chicago,Silver,35,2020
+C0191,Los Angeles,Bronze,42,2020
+C0192,Phoenix,Bronze,29,2021
+C0193,Houston,Gold,32,2021
+C0194,Los Angeles,Silver,43,2023
+C0195,Houston,Silver,58,2019
+C0196,Chicago,Bronze,62,2023
+C0197,Chicago,Bronze,43,2019
+C0198,New York,Bronze,64,2020
+C0199,Phoenix,Bronze,49,2018
+C0200,Houston,Bronze,27,2021
+C0201,Los Angeles,Bronze,33,2019
+C0202,Chicago,Bronze,24,2023
+C0203,New York,Bronze,34,2020
+C0204,New York,Silver,40,2019
+C0205,Houston,Bronze,43,2023
+C0206,Chicago,Bronze,38,2021
+C0207,Phoenix,Silver,39,2021
+C0208,Chicago,Silver,24,2022
+C0209,Houston,Bronze,31,2018
+C0210,Houston,Gold,32,2022
+C0211,Chicago,Silver,70,2020
+C0212,Houston,Bronze,24,2019
+C0213,Chicago,Gold,26,2020
+C0214,Los Angeles,Platinum,68,2023
+C0215,Chicago,Bronze,65,2021
+C0216,Chicago,Bronze,25,2022
+C0217,Houston,Gold,67,2022
+C0218,Houston,Gold,40,2022
+C0219,New York,Bronze,46,2020
+C0220,New York,Bronze,35,2021
+C0221,Los Angeles,Bronze,48,2019
+C0222,New York,Silver,47,2023
+C0223,Chicago,Silver,69,2019
+C0224,Houston,Bronze,56,2020
+C0225,New York,Silver,52,2023
+C0226,New York,Gold,35,2022
+C0227,Los Angeles,Bronze,59,2018
+C0228,Los Angeles,Bronze,56,2020
+C0229,Chicago,Gold,34,2020
+C0230,Houston,Gold,31,2021
+C0231,Los Angeles,Silver,48,2019
+C0232,New York,Silver,41,2020
+C0233,Houston,Bronze,52,2020
+C0234,Houston,Silver,61,2022
+C0235,New York,Silver,62,2022
+C0236,Los Angeles,Bronze,51,2023
+C0237,New York,Bronze,20,2018
+C0238,Houston,Bronze,54,2021
+C0239,Phoenix,Bronze,60,2018
+C0240,Phoenix,Bronze,57,2023
+C0241,Chicago,Bronze,43,2022
+C0242,New York,Bronze,72,2019
+C0243,New York,Bronze,40,2022
+C0244,Chicago,Gold,61,2021
+C0245,Chicago,Silver,56,2022
+C0246,Chicago,Silver,32,2021
+C0247,Houston,Gold,73,2021
+C0248,New York,Silver,66,2021
+C0249,Houston,Bronze,21,2023
+C0250,Chicago,Silver,46,2021
+C0251,New York,Silver,39,2021
+C0252,Houston,Gold,42,2019
+C0253,Houston,Silver,30,2018
+C0254,Chicago,Bronze,35,2020
+C0255,New York,Bronze,50,2018
+C0256,Chicago,Bronze,33,2021
+C0257,New York,Silver,62,2019
+C0258,Phoenix,Silver,59,2022
+C0259,Los Angeles,Bronze,61,2019
+C0260,Los Angeles,Platinum,19,2021
+C0261,Los Angeles,Silver,72,2019
+C0262,Chicago,Bronze,52,2019
+C0263,Phoenix,Bronze,59,2021
+C0264,New York,Bronze,51,2023
+C0265,Houston,Bronze,47,2019
+C0266,New York,Bronze,72,2020
+C0267,Houston,Bronze,30,2020
+C0268,New York,Bronze,30,2019
+C0269,Phoenix,Bronze,35,2023
+C0270,Houston,Gold,49,2022
+C0271,Chicago,Bronze,49,2021
+C0272,New York,Silver,52,2020
+C0273,New York,Silver,56,2022
+C0274,Houston,Platinum,63,2019
+C0275,Chicago,Bronze,69,2022
+C0276,Chicago,Bronze,46,2018
+C0277,Phoenix,Platinum,66,2020
+C0278,Chicago,Gold,46,2019
+C0279,Chicago,Gold,70,2021
+C0280,Chicago,Bronze,61,2023
+C0281,Los Angeles,Bronze,74,2019
+C0282,Phoenix,Silver,33,2021
+C0283,New York,Platinum,73,2023
+C0284,Houston,Silver,61,2023
+C0285,New York,Silver,64,2019
+C0286,Phoenix,Bronze,74,2022
+C0287,Houston,Gold,27,2022
+C0288,Phoenix,Bronze,47,2023
+C0289,Chicago,Bronze,42,2022
+C0290,Houston,Silver,56,2018
+C0291,Chicago,Silver,37,2023
+C0292,New York,Bronze,22,2023
+C0293,New York,Bronze,18,2021
+C0294,Houston,Silver,47,2022
+C0295,Houston,Bronze,66,2023
+C0296,Phoenix,Silver,20,2018
+C0297,Phoenix,Bronze,62,2021
+C0298,Chicago,Silver,31,2019
+C0299,Houston,Silver,73,2023
+C0300,New York,Bronze,47,2018
+C0301,Phoenix,Bronze,67,2020
+C0302,Phoenix,Bronze,21,2018
+C0303,New York,Bronze,35,2018
+C0304,Phoenix,Platinum,54,2021
+C0305,Chicago,Bronze,42,2019
+C0306,Houston,Gold,65,2020
+C0307,New York,Bronze,18,2022
+C0308,Houston,Silver,70,2022
+C0309,Phoenix,Gold,63,2018
+C0310,Phoenix,Silver,32,2021
+C0311,New York,Silver,26,2021
+C0312,Chicago,Silver,32,2022
+C0313,Los Angeles,Bronze,66,2020
+C0314,New York,Platinum,74,2019
+C0315,Los Angeles,Gold,41,2020
+C0316,Los Angeles,Platinum,21,2023
+C0317,Chicago,Bronze,29,2023
+C0318,Los Angeles,Gold,54,2019
+C0319,Los Angeles,Platinum,54,2022
+C0320,Chicago,Bronze,60,2019
+C0321,Los Angeles,Bronze,23,2021
+C0322,Los Angeles,Gold,56,2023
+C0323,Los Angeles,Silver,73,2018
+C0324,New York,Gold,63,2018
+C0325,New York,Bronze,41,2022
+C0326,New York,Gold,28,2021
+C0327,Chicago,Bronze,30,2020
+C0328,Phoenix,Bronze,51,2021
+C0329,Los Angeles,Bronze,42,2018
+C0330,Los Angeles,Gold,24,2018
+C0331,Chicago,Silver,69,2023
+C0332,Los Angeles,Silver,21,2021
+C0333,New York,Bronze,25,2021
+C0334,Phoenix,Gold,37,2018
+C0335,Houston,Bronze,46,2020
+C0336,Los Angeles,Gold,71,2022
+C0337,New York,Silver,70,2022
+C0338,Houston,Bronze,68,2021
+C0339,Phoenix,Silver,62,2022
+C0340,Houston,Bronze,63,2018
+C0341,New York,Gold,27,2018
+C0342,Houston,Silver,60,2021
+C0343,Chicago,Bronze,51,2021
+C0344,Houston,Gold,74,2023
+C0345,Los Angeles,Bronze,43,2021
+C0346,Los Angeles,Silver,58,2020
+C0347,Chicago,Platinum,66,2022
+C0348,New York,Silver,20,2021
+C0349,Los Angeles,Bronze,73,2019
+C0350,Phoenix,Platinum,23,2023
+C0351,Los Angeles,Silver,22,2019
+C0352,Los Angeles,Bronze,22,2018
+C0353,New York,Bronze,71,2022
+C0354,Houston,Gold,64,2021
+C0355,Los Angeles,Silver,40,2019
+C0356,Chicago,Silver,66,2022
+C0357,Houston,Gold,26,2018
+C0358,Phoenix,Gold,52,2020
+C0359,New York,Bronze,37,2023
+C0360,Phoenix,Bronze,66,2022
+C0361,Houston,Bronze,59,2022
+C0362,Houston,Gold,52,2020
+C0363,Houston,Bronze,67,2022
+C0364,Phoenix,Silver,35,2018
+C0365,Houston,Gold,34,2018
+C0366,Phoenix,Gold,41,2020
+C0367,Houston,Bronze,20,2023
+C0368,Chicago,Gold,49,2021
+C0369,Houston,Bronze,52,2019
+C0370,Phoenix,Gold,55,2021
+C0371,Los Angeles,Bronze,30,2022
+C0372,Houston,Bronze,73,2019
+C0373,Los Angeles,Gold,64,2020
+C0374,Chicago,Bronze,42,2020
+C0375,New York,Bronze,26,2023
+C0376,Chicago,Gold,21,2019
+C0377,Houston,Gold,31,2018
+C0378,Los Angeles,Silver,54,2019
+C0379,Los Angeles,Silver,51,2022
+C0380,Phoenix,Silver,28,2018
+C0381,Los Angeles,Bronze,58,2020
+C0382,Phoenix,Bronze,73,2019
+C0383,New York,Bronze,20,2021
+C0384,Houston,Platinum,45,2023
+C0385,Phoenix,Silver,46,2021
+C0386,New York,Silver,26,2023
+C0387,Los Angeles,Silver,20,2022
+C0388,Los Angeles,Platinum,42,2021
+C0389,New York,Bronze,51,2019
+C0390,Los Angeles,Silver,29,2019
+C0391,New York,Silver,59,2021
+C0392,Phoenix,Silver,26,2019
+C0393,Phoenix,Bronze,32,2022
+C0394,New York,Gold,57,2018
+C0395,Phoenix,Platinum,42,2022
+C0396,Phoenix,Silver,22,2023
+C0397,Phoenix,Silver,28,2022
+C0398,Chicago,Platinum,51,2023
+C0399,Houston,Gold,41,2019
+C0400,Los Angeles,Bronze,32,2018
+C0401,Chicago,Silver,55,2019
+C0402,Phoenix,Silver,25,2020
+C0403,New York,Silver,22,2019
+C0404,Phoenix,Gold,65,2023
+C0405,Houston,Platinum,43,2019
+C0406,Phoenix,Platinum,35,2019
+C0407,New York,Silver,23,2018
+C0408,Houston,Bronze,54,2019
+C0409,Phoenix,Platinum,65,2018
+C0410,Houston,Gold,30,2021
+C0411,Los Angeles,Bronze,45,2020
+C0412,Los Angeles,Platinum,22,2018
+C0413,Phoenix,Gold,30,2023
+C0414,Houston,Silver,34,2021
+C0415,New York,Silver,67,2018
+C0416,Phoenix,Bronze,57,2018
+C0417,Los Angeles,Bronze,62,2020
+C0418,Los Angeles,Bronze,49,2023
+C0419,Phoenix,Gold,46,2022
+C0420,Houston,Bronze,68,2022
+C0421,Los Angeles,Bronze,20,2018
+C0422,Houston,Bronze,73,2019
+C0423,Los Angeles,Silver,57,2023
+C0424,Los Angeles,Platinum,51,2021
+C0425,Chicago,Bronze,57,2019
+C0426,Los Angeles,Bronze,44,2019
+C0427,New York,Gold,30,2023
+C0428,Phoenix,Silver,62,2018
+C0429,Phoenix,Bronze,50,2018
+C0430,Houston,Silver,23,2018
+C0431,Los Angeles,Bronze,41,2018
+C0432,New York,Bronze,36,2022
+C0433,Houston,Silver,33,2018
+C0434,Chicago,Silver,57,2022
+C0435,Houston,Platinum,45,2022
+C0436,Houston,Bronze,50,2018
+C0437,Los Angeles,Silver,65,2020
+C0438,Chicago,Silver,58,2021
+C0439,Houston,Bronze,30,2019
+C0440,New York,Silver,60,2022
+C0441,New York,Bronze,62,2023
+C0442,Phoenix,Platinum,42,2023
+C0443,Chicago,Bronze,70,2021
+C0444,Chicago,Silver,59,2023
+C0445,Phoenix,Bronze,53,2020
+C0446,Houston,Platinum,44,2023
+C0447,Chicago,Silver,55,2019
+C0448,New York,Silver,24,2019
+C0449,New York,Bronze,22,2022
+C0450,Los Angeles,Gold,60,2018
+C0451,Chicago,Bronze,62,2020
+C0452,Houston,Gold,74,2022
+C0453,Phoenix,Bronze,68,2020
+C0454,Phoenix,Bronze,48,2018
+C0455,Houston,Bronze,40,2023
+C0456,Los Angeles,Silver,59,2023
+C0457,Phoenix,Silver,27,2018
+C0458,Chicago,Bronze,49,2022
+C0459,Los Angeles,Gold,60,2018
+C0460,Chicago,Silver,70,2021
+C0461,New York,Silver,47,2019
+C0462,Los Angeles,Silver,56,2022
+C0463,Phoenix,Silver,48,2020
+C0464,Los Angeles,Silver,35,2021
+C0465,Los Angeles,Bronze,53,2022
+C0466,Los Angeles,Bronze,19,2018
+C0467,Los Angeles,Gold,31,2018
+C0468,Chicago,Platinum,30,2018
+C0469,New York,Bronze,46,2018
+C0470,Houston,Bronze,29,2020
+C0471,Los Angeles,Silver,56,2021
+C0472,Phoenix,Silver,19,2023
+C0473,Los Angeles,Bronze,49,2019
+C0474,Phoenix,Bronze,30,2020
+C0475,Chicago,Gold,63,2020
+C0476,Phoenix,Silver,44,2023
+C0477,Houston,Bronze,66,2023
+C0478,New York,Bronze,58,2019
+C0479,Phoenix,Bronze,34,2019
+C0480,Phoenix,Silver,57,2023
+C0481,New York,Bronze,48,2018
+C0482,Houston,Bronze,51,2020
+C0483,Los Angeles,Gold,41,2022
+C0484,Phoenix,Bronze,62,2019
+C0485,New York,Silver,52,2019
+C0486,Chicago,Bronze,65,2023
+C0487,New York,Bronze,23,2021
+C0488,Chicago,Bronze,36,2022
+C0489,Houston,Gold,47,2022
+C0490,Los Angeles,Gold,24,2019
+C0491,New York,Gold,27,2018
+C0492,Phoenix,Bronze,58,2021
+C0493,Houston,Silver,49,2022
+C0494,New York,Bronze,51,2019
+C0495,Phoenix,Bronze,45,2022
+C0496,New York,Gold,32,2021
+C0497,Chicago,Bronze,47,2021
+C0498,New York,Bronze,54,2020
+C0499,New York,Bronze,46,2023
+C0500,New York,Bronze,39,2023

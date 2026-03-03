@@ -1,0 +1,11 @@
+product_name,category,units_sold,total_revenue,avg_discount,unique_customers,num_transactions,revenue_per_unit
+Laptop,Electronics,975,925440.45,4.87,328,511,949.17
+Monitor,Electronics,935,310685.81,4.97,321,479,332.28
+Headphones,Audio,979,139557.87,5.18,334,512,142.55
+Webcam,Electronics,938,80117.81,5.04,308,499,85.41
+Keyboard,Electronics,941,70970.78,5.5,302,486,75.42
+USB-C Hub,Electronics,970,46075.48,4.96,317,490,47.5
+Desk Lamp,Accessories,1015,38582.07,4.96,333,514,38.01
+Wireless Mouse,Electronics,908,25813.56,5.14,314,490,28.43
+Phone Stand,Accessories,906,17152.11,5.33,306,470,18.93
+Notebook,Stationery,1071,10104.5,5.61,340,549,9.43

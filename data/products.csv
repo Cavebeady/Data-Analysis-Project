@@ -1,0 +1,11 @@
+product_id,product_name,category,base_price
+P001,Laptop,Electronics,999.99
+P002,Wireless Mouse,Electronics,29.99
+P003,USB-C Hub,Electronics,49.99
+P004,Monitor,Electronics,349.99
+P005,Keyboard,Electronics,79.99
+P006,Webcam,Electronics,89.99
+P007,Headphones,Audio,149.99
+P008,Phone Stand,Accessories,19.99
+P009,Desk Lamp,Accessories,39.99
+P010,Notebook,Stationery,9.99
